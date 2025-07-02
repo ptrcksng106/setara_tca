@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  Setara
+
+  Created by Patrick Samuel Owen Saritua Sinaga on 09/02/25.
+  
+*/
+
+"add_bill" = "Add Bills";
+"new_bill" = "New Bill";
+"history" = "History";
+"add_bill_description" = "Add new bill to calculate";
+"history_description" = "No bills history yet";
+"add_new_bill" = "Add New Bill";
+"done" = "Done";
+"back" = "Back";
